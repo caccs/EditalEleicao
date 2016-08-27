@@ -1,18 +1,18 @@
-### Edital de Eleição do Centro Acadêmico da Computação - Sorocaba - Pata do Bisão
+### Edital de Eleição do Centro Acadêmico de Ciência da Computação Computação - Sorocaba - Pata do Bisão
 
 #### Disposições Gerais
 
-- Art. 1º - A eleição para a diretoria do Centro Acadêmico Ciência da Computação - Sorocaba - Pata do Bisão, será realizado no período do dia 12 ao dia 16 do mês de setembro de 2016, das 12:00 às 14:00, no prédio ATLab (Prédio Roxo) nos corredores dos laboratórios de ensino da computação.
+- Art. 1º - A eleição para a diretoria do Centro Acadêmico de Ciência da Computação - Sorocaba - Pata do Bisão, será realizado no período do dia 12 ao dia 16 do mês de setembro de 2016, das 12:00 às 14:00, no prédio ATLab (Prédio Roxo) nos corredores dos laboratórios de ensino da computação.
 - Art. 2º - A eleição será feita através do voto direto, secreto e universal.
     - Paragrafo Único - Poderão  votar  e  ser  votados  todos  os  alunos regularmente matriculados  no  curso  de Ciência da Computação.
-- Art. 3º - A participação nesta eleição dará através do registro de chapas para a diretoria do Centro Acadêmico Ciência da Computação - Sorocaba - Pata do Bisão.
+- Art. 3º - A participação nesta eleição dará através do registro de chapas para a diretoria do Centro Acadêmico de Ciência da Computação - Sorocaba - Pata do Bisão.
 - Art. 4º- Será eleita a chapa que obtiver a maioria simples de voto, não computados os votos nulos.
 
 
 #### Do Registro de Chapas
 - Art. 5º- As Chapas poderão efetuar seus registros no período de 29 de Agosto a 3 de Setembro no ano de 2016, das 08:00 às 18:00, com qualquer membro da comissão eleitoral.
 - Art. 6º- O pedido de registro deve ser feito com o nome da chapa, uma lista dos componentes da chapa com a devida indicação do cargo que o mesmo ocupará na diretoria da entidade, junto com o registro acadêmico (RA), ano de entrada, apelido (se houver) e as respectivas assinaturas, dando ciência da sua inscrição no pleito.
-    - Os cargos que compõem a diretoria do Centro Acadêmico Ciência da Computação - Sorocaba - Pata do Bisão são:
+    - Os cargos que compõem a diretoria do Centro Acadêmico de Ciência da Computação - Sorocaba - Pata do Bisão são:
         - Presidente;
         - Vice-presidente;
         - Coordenador de Finanças;
@@ -33,7 +33,7 @@
 - Art. 11º- Os mesários serão os membros da comissão eleitoral ou pessoas escolhidas por estes que não integrem nenhuma das chapas.
 
 #### Da apuração
-- Art. 12º- A apuração iniciará logo após o termino da votação e será públicada na página do Centro Acadêmico Ciência da Computação - Sorocaba.
+- Art. 12º- A apuração iniciará logo após o termino da votação e será públicada na página do Centro Acadêmico de Ciência da Computação - Sorocaba.
 - Art. 13º- Serão considerados nulos todos os votos que contenham inscrições que não deixem evidente a opção do eleitor por alguma das chapas, bem como aquelas cédulas que não estiverem rubricadas por pelo menos, um membro da Mesa Receptora;
 
 #### Disposições Finais
