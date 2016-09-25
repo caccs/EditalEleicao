@@ -3,7 +3,7 @@ before_install:
   texlive-latex-extra texlive-fonts-extra texlive-latex-recommended dvipng
 script:
 - mkdir _build
-- pdflatex -output-directory _build tex/EditalEleicao.tex
+- pdflatex -interaction nonstopmode -output-directory _build ./tex/EditalEleicao.tex
 deploy:
   provider: releases
   api_key:
